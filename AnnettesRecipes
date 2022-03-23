@@ -4,13 +4,14 @@ author: "by Annette Rashid Gall"
 output:
   html_document:
     toc: yes
+    toc_float: true
     theme: readable 
 ---
 Compiled by Megan on May 24, 2019
 
 See end notes for full list of recipes.
 
-![test ](C:/Users/Owner/Documents/GitHub/AnnetteGallsRecipes/IMG_1372.JPG){width=65%}
+![](C:/Users/Owner/Documents/GitHub/AnnetteGallsRecipes/IMG_1372.JPG){width=65%}
 
 
 
